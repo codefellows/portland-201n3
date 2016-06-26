@@ -1,14 +1,14 @@
 # Week 1, Class 2
 
 # Reading Reminder
-* ["Links" (HTML & CSS, Ch. 4)](https://canvas.instructure.com/courses/CF-Change-Class-ID/assignments/CF-Change-Assignment-ID)
-* ["Images" (HTML & CSS, Ch. 5)](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
-* ["Basic JavaScript Instructions" (JavaScript, Ch. 2)](https://canvas.instructure.com/courses/CF-Change-Class-ID/assignments/CF-Change-Assignment-ID)
+* ["Links" (HTML & CSS, Ch. 4)](https://canvas.instructure.com/courses/1030700/assignments/9632563)
+* ["Images" (HTML & CSS, Ch. 5)](https://canvas.instructure.com/courses/1030700/modules/items/9632566)
+* ["Basic JavaScript Instructions" (JavaScript, Ch. 2)](https://canvas.instructure.com/courses/1030700/assignments/9632550)
 
 # Assignment for Class
 Today we will be using the code we wrote in the last class as an example for creating a guessing game project to which we'll be adding during the rest of the week. Use three personalized guessing game questions (The game will consist of three yes/no questions about you (example: "Did I grow up in South Dakota?")). Your end product will look very much like what we finished with in class yesterday, just customized. And if you want, extend it.
 
-[Submit Your Work](https://canvas.instructure.com/courses/CF-Change-Class-ID/assignments/CF-Change-Assignment-ID)
+[Submit Your Work](https://canvas.instructure.com/courses/1030700/assignments/9632552)
 
 ## User Stories (MVP)
  - As a developer, I want to create a simple webpage, so that my users can interact with my game.

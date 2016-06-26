@@ -1,18 +1,18 @@
 # Week 1, Class 3
-[**Week 1 Feedback**](https://canvas.instructure.com/courses/CF-Change-Class-ID/assignments/CF-Change-Assignment-ID)
+[**Week 1 Feedback**](https://canvas.instructure.com/courses/1030700/assignments/9632559)
 *You will receive an email from Code Fellows with a link to the survey. Once complete, please complete this assignment as well.*
 
 # Reading Reminder
-* [“Decisions and Loops” (JavaScript, Ch. 4)](https://canvas.instructure.com/courses/CF-Change-Class-ID/assignments/CF-Change-Assignment-ID)
-* ["Lists" (HTML & CSS, Ch. 3)](https://canvas.instructure.com/courses/CF-Change-Class-ID/assignments/CF-Change-Assignment-ID)
-* ["Tables" (HTML & CSS, Ch. 6)](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
+* [“Decisions and Loops” (JavaScript, Ch. 4)](https://canvas.instructure.com/courses/1030700/assignments/9632555)
+* ["Lists" (HTML & CSS, Ch. 3)](https://canvas.instructure.com/courses/1030700/assignments/9632556)
+* ["Tables" (HTML & CSS, Ch. 6)](https://canvas.instructure.com/courses/1030700/modules/items/9632578)
 
 # Assignment for Class
 Today we'll be extending/refining the guessing game and working from a GitHub branch.
 
 In your guessing-game directory, your HTML should be in a file called index.html, your JS in a file called game.js, and you should have a README.md file as well.
 
-[Submit Your Work](https://canvas.instructure.com/courses/CF-Change-Class-ID/assignments/CF-Change-Assignment-ID)
+[Submit Your Work](https://canvas.instructure.com/courses/1030700/assignments/9632557)
 
 ## User Stories (MVP)
  - As a developer, I want to work on a new branch in my repo, so I do not effect the state of my Master branch

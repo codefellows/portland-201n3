@@ -1,13 +1,11 @@
 # Code 201: Foundations of Software Development
-Welcome to CF-Change-course-name!
+Welcome to portland-201n3!
 
 **Instructors & TA's**
 
-*Lead Instructor*: CF-Change-instructor-name
+*Lead Instructor*: Mark Fitzgerald
 
-*Assistant Instructor*: CF-Change-assistant-name
-
-*TA*: CF-Change-TA-name
+*TA*: To be announced
 
 # Introduction
 Build a strong software development foundation and learn how to use HTML, CSS, JavaScript, and various libraries to create fully-functional web apps.
@@ -32,21 +30,20 @@ Check out the full [Table of Contents](SUMMARY.md).
 
 **Homework**: There are reading and coding assignments several times a week.
 
-**Duration**: Monday, Tuesday, Wednesday, Thursday, and Sunday for 8 weeks (sort of - see table below).
-* First class: CF-Change-first-date
-* Last class: CF-Change-last-date
+**Duration**: Monday, Tuesday, Wednesday, Thursday, and Saturday for 8 weeks (sort of - see table below).
+* First class: June 27, 2016
+* Last class: August 20, 2016
 
-**Week**    | Sunday | Monday | Tuesday | Wednesday | Thursday
+**Week**    | Monday | Tuesday | Wednesday | Thursday | Saturday
 -------------|---------------|---------------|---------------|---------------|---------------
-Mar 6 - 12 | X | X | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | Class 6:30 - 9:30
-Mar 13 - 19 | Class & Lab 9:00 - 5:00 | Lab 6:30 - 9:30 | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30
-Mar 20 - 26 | Class & Lab 9:00 - 5:00 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30
-Mar 27 - Apr 2 | Class & Lab 9:00 - 5:00 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30
-Apr 3 - 9 | Class & Lab 9:00 - 5:00 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30
-Apr 10 - 16 | Class & Lab 9:00 - 5:00 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30
-Apr 17 - 23 | Class & Lab 9:00 - 5:00 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30
-Apr 24 - 30 | Lab 9:00 - 5:00 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30
-May 1 | Project Presentations |  |  |  | 
+Jun 27 - Jul 2 | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | Class & Lab 9:00 - 6:00
+Jul 4 - Jul 9 | X | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
+Jul 11 - Jul 16 | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
+Jul 18 - Jul 23 | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
+Jul 25 - Jul 30 | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
+Aug 1 - Aug 6 | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
+Aug 8 - Aug 13 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 9:00 - 6:00
+Aug 15 - Aug 20 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Project Presentations
 
 ## Assignments
 

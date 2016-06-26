@@ -1,13 +1,11 @@
-# CF-Change-course-name
+# portland-201n3
 ## Weeks 1-2 night and weekend track:
 ### Introduction to Web Development
 **Instructors & TA's**
 
-*Lead Instructor*: CF-Change-instructor-name
+*Lead Instructor*: Mark Fitzgerald
 
-*Assistant Instructor*: CF-Change-assistant-name
-
-*TA*: CF-Change-TA-name
+*TA*: To be announced
 
 ##Week 1 - Daily Plans
 ###Class 01
