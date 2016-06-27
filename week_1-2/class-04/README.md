@@ -1,14 +1,14 @@
 # Week 1, Class 4
 
 # Reading Reminder
-* ["Introducing CSS" (HTML & CSS, Ch. 10)](https://canvas.instructure.com/courses/CF-Change-Class-ID/assignments/CF-Change-Assignment-ID)
-* ["Color" (HTML & CSS, Ch. 11)](https://canvas.instructure.com/courses/CF-Change-Class-ID/assignments/CF-Change-Assignment-ID)
-* [“Functions, Methods & Objects” (JavaScript, Ch. 3)](https://canvas.instructure.com/courses/CF-Change-Class-ID/assignments/CF-Change-Assignment-ID)
+* ["Introducing CSS" (HTML & CSS, Ch. 10)](https://canvas.instructure.com/courses/1030700/assignments/9632549)
+* ["Color" (HTML & CSS, Ch. 11)](https://canvas.instructure.com/courses/1030700/assignments/9632567)
+* [“Functions, Methods & Objects” (JavaScript, Ch. 3)](https://canvas.instructure.com/courses/1030700/assignments/9632562)
 
 # Assignment for Class
 Today we will be expanding our javascript to include functions so that we can execute code blocks more logically, and later on, in a more controlled manner.
 
-[Submit Your Work](https://canvas.instructure.com/courses/CF-Change-Class-ID/assignments/CF-Change-Assignment-ID)
+[Submit Your Work](https://canvas.instructure.com/courses/1030700/assignments/9632564)
 
 ## User Stories (MVP)
  - As a developer, I want my code written in a modular way, so that I can reuse functionality without duplicating code.

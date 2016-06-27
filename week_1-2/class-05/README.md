@@ -1,16 +1,16 @@
 # Week 1, Class 5
-[**Week 2 Feedback**](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
+[**Week 2 Feedback**](https://canvas.instructure.com/courses/1030700/modules/items/9632574)
 *You will receive an email from Code Fellows with a link to the survey. Once complete, please complete this assignment as well.*
 
 # Reading Reminder
-* ["Extra Markup" (HTML & CSS, Ch. 8)](https://canvas.instructure.com/courses/CF-Change-Class-ID/assignments/CF-Change-Assignment-ID)
-* ["Boxes" (HTML & CSS, Ch. 13)](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
-* ["Forms" (HTML & CSS, Ch. 7)](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
+* ["Extra Markup" (HTML & CSS, Ch. 8)](https://canvas.instructure.com/courses/1030700/assignments/9632545)
+* ["Boxes" (HTML & CSS, Ch. 13)](https://canvas.instructure.com/courses/1030700/modules/items/9632554)
+* ["Forms" (HTML & CSS, Ch. 7)](https://canvas.instructure.com/courses/1030700/modules/items/9632582)
 
 # Assignment for Class
 Today you will be further extending your guessing game by working with CSS and colors. Once complete you'll be working to deploy your code to the interwebs!
 
-[Submit Your Work](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
+[Submit Your Work](https://canvas.instructure.com/courses/1030700/modules/items/9632569)
 
 ## User Stories (MVP)
  - As a developer, I want to further apply D.R.Y. to my code, so that I do not have duplicate and unnecessary code.
