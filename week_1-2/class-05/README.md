@@ -3,7 +3,7 @@
 *You will receive an email from Code Fellows with a link to the survey. Once complete, please complete this assignment as well.*
 
 # Reading Reminder
-* ["Extra Markup" (HTML & CSS, Ch. 8)](https://canvas.instructure.com/courses/1030700/assignments/9632545)
+* ["Extra Markup" (HTML & CSS, Ch. 8)](https://canvas.instructure.com/courses/1030700/modules/items/9632545)
 * ["Boxes" (HTML & CSS, Ch. 13)](https://canvas.instructure.com/courses/1030700/modules/items/9632554)
 * ["Forms" (HTML & CSS, Ch. 7)](https://canvas.instructure.com/courses/1030700/modules/items/9632582)
 

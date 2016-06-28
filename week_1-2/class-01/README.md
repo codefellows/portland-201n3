@@ -3,14 +3,14 @@
 # Reading Reminder
 
 * ["Structure" (HTML & CSS, Ch. 1)](https://canvas.instructure.com/courses/1030700/modules/items/9632544)
-* ["Text” (HTML & CSS, Ch.2)](https://canvas.instructure.com/courses/1030700/assignments/9632551)
-* ["Process & Design" (HTML & CSS, Ch. 18)](https://canvas.instructure.com/courses/1030700/assignments/9632546)
-* ["The ABC of Programming" (JavaScript, Ch.1 )](https://canvas.instructure.com/courses/1030700/assignments/9632543)
+* ["Text” (HTML & CSS, Ch.2)](https://canvas.instructure.com/courses/1030700/modules/items/9632551)
+* ["Process & Design" (HTML & CSS, Ch. 18)](https://canvas.instructure.com/courses/1030700/modules/items/9632546)
+* ["The ABC of Programming" (JavaScript, Ch.1 )](https://canvas.instructure.com/courses/1030700/modules/items/9632543)
 
 # Assignment for Class
 In class, we wrote a program that accepted user input and, based on that input, displayed a message back to the user. Your assignment in lab today involves a variety of different activities related to that.
 
-[Submit Your Work](https://canvas.instructure.com/courses/1030700/assignments/9632547)
+[Submit Your Work](https://canvas.instructure.com/courses/1030700/modules/items/9632547)
 
 ## User Stories (MVP)
  - As a developer, I want to use basic markup to structure my index.html page, so the layout is in the order of assembly I prefer
