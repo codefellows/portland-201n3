@@ -2,7 +2,7 @@
 
 # Reading Reminder
 
-* ["Structure" (HTML & CSS, Ch. 1)](https://canvas.instructure.com/courses/1030700/assignments/9632544)
+* ["Structure" (HTML & CSS, Ch. 1)](https://canvas.instructure.com/courses/1030700/modules/items/9632544)
 * ["Text” (HTML & CSS, Ch.2)](https://canvas.instructure.com/courses/1030700/assignments/9632551)
 * ["Process & Design" (HTML & CSS, Ch. 18)](https://canvas.instructure.com/courses/1030700/assignments/9632546)
 * ["The ABC of Programming" (JavaScript, Ch.1 )](https://canvas.instructure.com/courses/1030700/assignments/9632543)
