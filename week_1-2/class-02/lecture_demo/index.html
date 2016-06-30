@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Class 01 - Example</title>
+  </head>
+  <body>
+    <h1>My First Web Page!</h1>
+    <p>Hello World!</p>
+    <p>Welcome to my first web site.</p>
+    <a href="http://www.codefellows.com" target="_blank"><img src="images/Logo.png"></a>
+    <p>I'm learning to program at <a href="http://www.codefellows.com" target="_blank">Code Fellows</a>.</p>
+
+    <script type="text/javascript">
+        console.log("Starting script. Asking user for information.")
+      var userName = prompt("Please tell me your name:","");
+        console.log("User Name: "+userName);
+      var message = "Hello "+userName+"!";
+        console.log("Message: "+message);
+      message += "\nI hope you enjoy it.";
+        console.log("Message: "+message);
+      alert(message);
+        console.log("Get numeric guess from user.");
+      var guess = prompt("Guess a number between 1 and 10:","");
+      if (guess == 7) {
+        console.log("User guess was correct.");
+        alert("Great job! You got it!!");
+      } else {
+        console.log("User did NOT guess correctly.");
+        alert("Wah, wah, waaaaah. Sorry, no.");
+      }
+    </script>
+  </body>
+</html>
