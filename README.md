@@ -34,16 +34,16 @@ Check out the full [Table of Contents](SUMMARY.md).
 * First class: June 27, 2016
 * Last class: August 20, 2016
 
-**Week**    | Sunday | Monday | Tuesday | Wednesday | Thursday | Saturday
--------------|---------------|---------------|---------------|---------------|---------------|---------------
-Jun 26 - Jul 2 | X | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | Class & Lab 9:00 - 6:00
-Jul 3 - Jul 9 | X | X | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | X | X
-Jul 10 - Jul 16 | Class & Lab 9:00 - 6:00 | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
-Jul 17 - Jul 23 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
-Jul 24 - Jul 30 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
-Jul 31 - Aug 6 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
-Aug 7 - Aug 13 | X | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | X
-Aug 14 - Aug 20 | Lab 9:00 - 6:00 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Project Presentations
+**Week**    | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday
+-------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------
+Jun 26 - Jul 2 | X | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
+Jul 3 - Jul 9 | X | X | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | X | X | X
+Jul 10 - Jul 16 | Class & Lab 9:00 - 6:00 | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | X | Class & Lab 9:00 - 6:00
+Jul 17 - Jul 23 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | X | Class & Lab 9:00 - 6:00
+Jul 24 - Jul 30 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | X | Class & Lab 9:00 - 6:00
+Jul 31 - Aug 6 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | X | Class & Lab 9:00 - 6:00
+Aug 7 - Aug 13 | X | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | X | X
+Aug 14 - Aug 20 | Lab 9:00 - 6:00 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | X | Project Presentations
 
 ## Assignments
 
