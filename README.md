@@ -34,16 +34,16 @@ Check out the full [Table of Contents](SUMMARY.md).
 * First class: June 27, 2016
 * Last class: August 20, 2016
 
-**Week**    | Monday | Tuesday | Wednesday | Thursday | Saturday
+**Week**    | Sunday | Monday | Tuesday | Wednesday | Thursday | Saturday
 -------------|---------------|---------------|---------------|---------------|---------------
-Jun 27 - Jul 2 | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | Class & Lab 9:00 - 6:00
-Jul 4 - Jul 9 | X | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
-Jul 11 - Jul 16 | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
-Jul 18 - Jul 23 | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
-Jul 25 - Jul 30 | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
-Aug 1 - Aug 6 | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
-Aug 8 - Aug 13 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 9:00 - 6:00
-Aug 15 - Aug 20 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Project Presentations
+Jun 26 - Jul 2 | X | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | Class & Lab 9:00 - 6:00
+Jul 3 - Jul 9 | X | X | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | X | X
+Jul 10 - Jul 16 | Class & Lab 9:00 - 6:00 | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
+Jul 17 - Jul 23 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
+Jul 24 - Jul 30 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
+Jul 31 - Aug 6 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
+Aug 7 - Aug 13 | X | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | X
+Aug 14 - Aug 20 | Lab 9:00 - 6:00 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Project Presentations
 
 ## Assignments
 
