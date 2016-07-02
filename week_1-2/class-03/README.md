@@ -7,6 +7,9 @@
 * ["Lists" (HTML & CSS, Ch. 3)](https://canvas.instructure.com/courses/1030700/modules/items/9632556)
 * ["Tables" (HTML & CSS, Ch. 6)](https://canvas.instructure.com/courses/1030700/modules/items/9632578)
 
+# Assess Your Understanding of Material
+[Take a quiz](https://canvas.instructure.com/courses/1030700/modules/items/9632558) that reviews items from the week. Review any of the items where you don't feel as strong as you would like.
+
 # Assignment for Class
 Today we'll be extending/refining the guessing game and working from a GitHub branch.
 
