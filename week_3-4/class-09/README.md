@@ -1,19 +1,22 @@
 # Week 3-4, Class 9
-[**Week 4 Feedback**](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
+[**Week 4 Feedback**](https://canvas.instructure.com/courses/1030700/modules/items/9632593)
 *You will receive an email from Code Fellows with a link to the survey. Once complete, please complete this assignment as well.*
 
 # Reading Reminder
-* ["Events" (JavaScript, Ch. 6)](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
-* ["Layout" (HTML & CSS, Ch. 15)](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
+* ["Events" (JavaScript, Ch. 6)](https://canvas.instructure.com/courses/1030700/modules/items/9632583)
+* ["Layout" (HTML & CSS, Ch. 15)](https://canvas.instructure.com/courses/1030700/modules/items/9632561)
+
+# Assess Your Understanding of Material
+[Take a quiz](https://canvas.instructure.com/courses/1030700/modules/items/9632587) that reviews items from the week. Review any of the items where you don't feel as strong as you would like.
 
 # Assignment for Class
 Today you will be adding an input form to your sales data page. Once the form is built, wire it up to update your table data.
 
-[Submit Your Work](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
+[Submit Your Work](https://canvas.instructure.com/courses/1030700/modules/items/9632588)
 
 ## User Stories (MVP)
- - (Pair programming) As a developer, I want to implement a form on the website so Pat has the ability to enter new stores without a developer to help him
- - (Individual) As a developer, I want to implement event management on my page, so that my form will listen and react to click events
+ - As a developer, I want to implement a form on the website so Pat has the ability to enter new stores without a developer to help him
+ - As a developer, I want to implement event management on my page, so that my form will listen and react to click events
 
 ## Technical Requirements
  - Form properly implemented in the html

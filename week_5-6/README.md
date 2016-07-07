@@ -1,11 +1,9 @@
-# CF-Change-course-name
+# portland-201n3
 #Weeks 5-6 nights and weekend track:
 ### Interactive Web Design
 **Instructors & TA's**
 
-*Lead Instructor*: CF-Change-instructor-name
-
-*Assistant Instructor*: CF-Change-assistant-name
+*Lead Instructor*: Mark Fitzgerald
 
 *TA*: CF-Change-TA-name
 

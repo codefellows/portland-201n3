@@ -7,6 +7,9 @@
 * ["Boxes" (HTML & CSS, Ch. 13)](https://canvas.instructure.com/courses/1030700/modules/items/9632554)
 * ["Forms" (HTML & CSS, Ch. 7)](https://canvas.instructure.com/courses/1030700/modules/items/9632582)
 
+# Assess Your Understanding of Material
+[Take a quiz](https://canvas.instructure.com/courses/1030700/modules/items/9632575) that reviews items from the week. Review any of the items where you don't feel as strong as you would like.
+
 # Assignment for Class
 Today you will be further extending your guessing game by working with CSS and colors. Once complete you'll be working to deploy your code to the interwebs!
 

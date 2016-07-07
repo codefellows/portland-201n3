@@ -1,15 +1,15 @@
 # Week 3-4, Class 8
 
 # Reading Reminder
-* ["Lists, Tables & Forms" (HTML & CSS, Ch. 14)](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
-* ["Images" (HTML & CSS, Ch. 16)](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
+* ["Lists, Tables & Forms" (HTML & CSS, Ch. 14)](https://canvas.instructure.com/courses/1030700/modules/items/9632590)
+* ["Images" (HTML & CSS, Ch. 16)](https://canvas.instructure.com/courses/1030700/modules/items/9632595)
 
 # Assignment for Class
 In class, we learned how to refactor our cookie stand objects using a constructor and instances. Let's replace your object literals with a single constructor that when called with 'new', creates new instances. See pages 106-109 in your textbook for an example... and especially focus on 108 and 109.
 
 We will also be replacing the lists of data for each store, and implementing a table of data instead!
 
-[Submit Your Work](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
+[Submit Your Work](https://canvas.instructure.com/courses/1030700/modules/items/9632584)
 
 ## User Stories (MVP)
  - As a developer, I want to implement a constructor function, so that I can reuse code and eliminate much of the duplication in my JavaScript

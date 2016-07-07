@@ -5,7 +5,10 @@
 
 *Lead Instructor*: Mark Fitzgerald
 
-*TA*: To be announced
+*TAs*: 
+Sarah Joy Calpo
+Tara Kreft
+Arielle Foldoe
 
 ##Week 1 - Daily Plans
 ###Class 01

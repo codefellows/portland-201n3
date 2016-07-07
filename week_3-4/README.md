@@ -1,13 +1,14 @@
-# CF-Change-course-name
+# portland-201n3
 ## Weeks 3-4 night and weekend track:
 ### Object Oriented Programming & the DOM
 **Instructors & TA's**
 
-*Lead Instructor*: CF-Change-instructor-name
+*Lead Instructor*: Mark Fitzgerald
 
-*Assistant Instructor*: CF-Change-assistant-name
-
-*TA*: CF-Change-TA-name
+*TAs*: 
+Sarah Joy Calpo
+Tara Kreft
+Arielle Foldoe
 
 ## Week 3 - Daily Plans
 ### Class 06

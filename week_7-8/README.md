@@ -1,4 +1,15 @@
+# portland-201n3
 #Weeks 7-8 nights and weekend track:
+### Introduction to Web Development
+**Instructors & TA's**
+
+*Lead Instructor*: Mark Fitzgerald
+
+*TAs*: 
+Sarah Joy Calpo
+Tara Kreft
+Arielle Foldoe
+
 ### Project Week(s)
 
 ## Week 7 - Daily Plans
