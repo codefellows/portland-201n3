@@ -5,7 +5,10 @@
 
 *Lead Instructor*: Mark Fitzgerald
 
-*TA*: CF-Change-TA-name
+*TAs*: 
+Sarah Joy Calpo,
+Tara Kreft,
+Arielle Foldoe
 
 ## Week 5 - Daily Plans
 ### Class 10

@@ -6,8 +6,8 @@
 *Lead Instructor*: Mark Fitzgerald
 
 *TAs*: 
-Sarah Joy Calpo
-Tara Kreft
+Sarah Joy Calpo,
+Tara Kreft,
 Arielle Foldoe
 
 ##Week 1 - Daily Plans
