@@ -1,0 +1,26 @@
+h1 {
+  color: blue;
+  font-family: Optima, Helvetica, sans-serif;
+}
+
+h2 {
+/*  color: rgb(194, 30, 31); */
+  color: #c21e1f;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+#side-by-side p {
+  display: inline-block;
+  box-sizing: border-box;
+  padding: 5px;
+  width: 50%;
+  vertical-align: top;
+}

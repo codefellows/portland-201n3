@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .bold {font-weight: bold;}
+    </style>
+    <script type="text/javascript">
+      var students = ["Mark", "Mary", "Jane", "Jack"];
+      var emails = ["mark@home.com","mary@work.com","jane@codefellows.com", "jack@test.com"];
+      var phones = ["503-555-1234", "503-555-9876", "503-555-5555", "503-555-1111"];
+    </script>
+  </head>
+  <body>
+    <table border="1" align="center">
+      <tr>
+        <th>Name</th>
+        <th>E-Mail</th>
+        <th>Phone</th>
+      </tr>
+      <script type="text/javascript">
+      for (var index = 0; index < students.length; index++) {
+        document.write("<tr><td>"+students[index]+"</td><td>"+emails[index]+"</td><td>"+phones[index]+"</td></tr>");
+      }
+      </script>
+      <tr>
+        <td id="new-person"></td>
+        <td>- N/A -</td>
+        <td>- N/A -</td>
+      </tr>
+      <tr>
+        <td colspan="2">Total</td>
+        <td><script type="text/javascript">document.write(students.length)</script></td>
+      </tr>
+    </table>
+    <input type="button" value="Add Person" onclick="addPerson()">
+    <script type="text/javascript" src="table_example.js"></script>
+  </body>
+</html>
