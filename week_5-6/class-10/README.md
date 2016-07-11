@@ -1,14 +1,14 @@
 # Week 5-6 Class-10
 
 # Reading Reminder
-* [CanvasJS and Canvas API](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
+* [BONUS - Chrome Developer Tools](https://canvas.instructure.com/courses/1030700/modules/items/9632592)
 
 # Assignment for Class
 Complete the initial setup and scaffolding for this project using your standard practices for creating a new project & repository.
 
 In this assignment, on page load, you will be displaying three random images to the DOM from your stock photo assets. Your user will select/click one image from the set of three. On click, the image will log an incremental vote, and then the page will load three new random images.
 
-[Submit Your Work](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
+[Submit Your Work](https://canvas.instructure.com/courses/1030700/modules/items/9632591)
 
 ## User Stories (MVP)
 **USER**

@@ -1,11 +1,14 @@
 # Week 5-6 Class-13
-[**Week 6 Feedback**](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
+[**Week 6 Feedback**](https://canvas.instructure.com/courses/1030700/modules/items/9632611)
 *You will receive an email from Code Fellows with a link to the survey. Once complete, please complete this assignment as well.*
+
+# Assess Your Understanding of Material
+[Take a quiz](https://canvas.instructure.com/courses/1030700/modules/items/9632605) that reviews items from the week. Review any of the items where you don't feel as strong as you would like.
 
 # Assignment for Class
 Add some CSS flair to your vote tracking app. Add in transitions and/or animations to help the user know that the screen has changed. For instance, when images are removed, they should fade away, or move off screen. When the new images appear, they should fade in, flip, or move onto the page. When viewing the graph of data, the voting section should fade, reduce, or move away while the graph comes onto the page. Look for something that would help convey what is happening when the user takes certain actions.
 
-[Submit Your Work](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
+[Submit Your Work](https://canvas.instructure.com/courses/1030700/modules/items/9632604)
 
 ## User Stories (MVP)
  - As a developer, I want to add transitions and animations to the page, so that changes due to user actions are conveyed more intuitively.

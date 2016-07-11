@@ -1,7 +1,7 @@
 # Week 5-6 Class-12
 
 # Reading Reminder
-* ["The Past, Present & Future of Local Storage for Web Applications" Article](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
+* ["The Past, Present & Future of Local Storage for Web Applications" Article](https://canvas.instructure.com/courses/1030700/modules/items/9632603)
 
 # Assignment for Class
 As we saw in class today, local storage allows you to utilize persistence in the browser to store data for a web application.
@@ -23,7 +23,7 @@ And, continue to refine your UI/UX. Try to view your app from the perspective of
 
 Suggestion: have other people try your app, and try out theirs.
 
-[Submit Your Work](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
+[Submit Your Work](https://canvas.instructure.com/courses/1030700/modules/items/9632600)
 
 ## User Stories (MVP)
  - As a marketer, I want the data to persist between browser loads, so that data isn't lost if the browser is closed.

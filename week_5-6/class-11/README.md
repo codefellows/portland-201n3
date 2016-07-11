@@ -1,9 +1,12 @@
 # Week 5-6 Class-11
-[**Week 5 Feedback**](https://canvas.instructure.com/courses/CF-Change-Class-ID/assignments/CF-Change-Assignment-ID)
+[**Week 5 Feedback**](https://canvas.instructure.com/courses/1030700/modules/items/9632601)
 *You will receive an email from Code Fellows with a link to the survey. Once complete, please complete this assignment as well.*
 
 # Reading Reminder
-* [CanvasJS and Canvas API Articles](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
+* [CanvasJS and Canvas API](https://canvas.instructure.com/courses/1030700/modules/items/9632599)
+
+# Assess Your Understanding of Material
+[Take a quiz](https://canvas.instructure.com/courses/1030700/modules/items/9632597) that reviews items from the week. Review any of the items where you don't feel as strong as you would like.
 
 # Assignment for Class
 Today will be your first exercise in **pair programming**. You will be paired to work with a partner, and the two of you will work on and extend each other's voting applications.
@@ -16,7 +19,7 @@ Here's some resources and tips on getting CanvasJS added to your vote tracker:
 
 As we've been doing all along, you should be working on different things in different branches in your repo, pushing them all to GitHub along the way, and merging them when things are the way you want. You've been doing that, right?
 
-[Submit Your Work](https://canvas.instructure.com/courses/CF-Change-Class-ID/modules/items/CF-Change-Assignment-ID)
+[Submit Your Work](https://canvas.instructure.com/courses/1030700/modules/items/9632596)
 
 ## User Stories (MVP)
 - As a developer, I want to present my data in a bar chart format on the webpage using the CanvasJS library.
