@@ -33,6 +33,6 @@ You will also simultaneously be working with more specific style and design conc
  - As a developer, I want to present the store data in a table format on the webpage, so each store's data is easier to represent and understand
 
 ## Helpful Resources
-[Problem Domain Document](../assets/support.md)
+[Problem Domain Document](../support.md)
 
 [Assignment Assets](../assets)
