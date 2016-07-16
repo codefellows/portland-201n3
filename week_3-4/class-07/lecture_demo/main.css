@@ -1,0 +1,49 @@
+header h1 {
+  display: inline-block;
+  font-size: 48px;
+  vertical-align: middle;
+}
+
+header img {
+  vertical-align: middle;
+}
+
+main nav, main section, main aside {
+  display: inline-block;
+  vertical-align: top;
+}
+
+main nav {
+  width: 25%;
+}
+
+main section {
+  width: 50%;
+}
+
+main section p {
+  margin-top: 0;
+}
+
+main aside {
+  width: 25%;
+}
+
+main aside ul {
+  margin-top: 0;
+}
+
+main nav a {
+  display: block;
+  color: rgb(194, 30, 31);
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+  text-decoration: none;
+  margin-bottom: 6px;
+  padding-left: 8px;
+}
+
+main nav a:hover {
+  background-color: #dddddd;
+}
