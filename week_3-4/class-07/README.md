@@ -28,6 +28,6 @@ In lab today we'll be working on the first draft of our styleguide for Pat. Take
     - Get more specific, and have some fun! What other CSS properties can you specify??
 
 ## Helpful Resources
-[Problem Domain Document](../assets/support.md)
+[Problem Domain Document](../support.md)
 
 [Assignment Assets](../assets)
