@@ -22,6 +22,7 @@ Arielle Foldoe
 +++BREAK+++
 
 4. Object Literals
+5. DOM Rendering (lists)
 
 ###Class 07
 1. Code Review
@@ -30,11 +31,12 @@ Arielle Foldoe
 
 2. Style guides
 3. Semantic HTML5
+2. Menu Formatting (CSS Highlighting)
 
 +++BREAK+++
 
-4. New repo using `git init`
-5. Document Object Model & DOM Methods
+5. New repo using `git init`
+6. Document Object Model & DOM Methods
 
 ##Week 4 - Daily Plans
 ###Class 08
@@ -42,12 +44,12 @@ Arielle Foldoe
 
 +++BREAK+++
 
-2. Text Formatting (CSS)
-3. DOM Rendering (lists)
+2. Menu Formatting (CSS Display)
 
 +++BREAK+++
 
-4. Constructor Functions
+3. Constructor Functions
+4. DOM Rendering (table)
 
 ###Class 9
 1. Code Review & Survey Responses
@@ -56,7 +58,6 @@ Arielle Foldoe
 
 2. CSS Positioning
 3. CSS Selectors - Specificity
-4. DOM Rendering (table)
 
 +++BREAK+++
 
