@@ -6,6 +6,7 @@ function addMenuItems() {
     var itemTextNode = document.createTextNode(menuItems[index]);
     var menuItemNode = document.createElement("a");
     menuItemNode.appendChild(itemTextNode);
+    var hrefNode = document.createAttributeNode("href")
     menu.appendChild(menuItemNode);
   }
 }
