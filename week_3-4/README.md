@@ -40,7 +40,7 @@ Arielle Foldoe
 
 ##Week 4 - Daily Plans
 ###Class 08
-1. Code Review
+1. Code Review & Survey Responses
 
 +++BREAK+++
 
@@ -52,7 +52,7 @@ Arielle Foldoe
 4. DOM Rendering (table)
 
 ###Class 9
-1. Code Review & Survey Responses
+1. Code Review
 
 +++BREAK+++
 
