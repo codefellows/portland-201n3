@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      label {display: inline-block; width: 85px;}
+    </style>
+  </head>
+  <body>
+    <form>
+      <label for="firstName">First Name</label>
+      <input id="firstName" name="first"><br>
+      <label for="lastName">Last Name</label>
+      <input id="lastName" name="last"><br>
+      <label for="email">E-Mail</label>
+      <input id="email" name="email"><br>
+      <label for="phone">Phone</label>
+      <input id="phone" name="phone"><br>
+      <input type="button" value="Show Info" onclick="pullInfo(this.form)">
+    </form>
+    <div id="form-info"></div>
+    <script type="text/javascript">
+      function pullInfo(formToUse) {
+        var info = "Name: "+formToUse.first.value + " " + formToUse.last.value;
+        info += "<br>E-Mail: "+formToUse.email.value;
+        info += "<br>Phone: "+formToUse.phone.value;
+        document.getElementById("form-info").innerHTML = info;
+      }
+    </script>
+  </body>
+</html>

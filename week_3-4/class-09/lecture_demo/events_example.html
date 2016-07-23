@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <img src="images/Logo.png"
+      onmouseover="switchLogo(this)"
+      onmouseout="switchLogo(this)"
+    >
+    <br>
+    <input type="button" value="Say Hello" onclick="alert('Hello')">
+    <script type="text/javascript">
+      function switchLogo(imageTag) {
+        var currentSource = imageTag.src; // "images/Logo.png"
+        var positionOfExtension = currentSource.lastIndexOf("."); // 11
+        var newSource = currentSource.substring(0, positionOfExtension); // "images/Logo"
+        var extension = currentSource.substring(positionOfExtension); // ".png"
+        if (currentSource.indexOf("-over") > 0) {
+          newSource = currentSource.replace("-over", "");
+        } else {
+          newSource += "-over" + extension; // "images/Logo-over.png"
+        }
+        imageTag.src = newSource;
+      }
+    </script>
+  </body>
+</html>

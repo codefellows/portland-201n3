@@ -1,0 +1,29 @@
+body {font-family: Optima, sans-serif;}
+
+#students {
+  width: 650px;
+  margin: 0 auto;
+  font-size: 20px;
+  border-spacing: 0;
+}
+
+#students tr {
+  height: 40px;
+}
+
+#students td {
+  padding: 0;
+  border-bottom: 1px solid #a0a8aa;
+}
+
+#students tr:first-of-type {
+  font-size: 36px;
+}
+
+#students tr:nth-of-type(2n + 3) {
+  background-color: #f0f8ff;
+}
+
+#students tr:hover {
+  background-color: #d0d8dd;
+}
