@@ -1,0 +1,12 @@
+h1 {text-align: center;}
+/*nav ul {list-style-type: none; padding: 0; text-align: center;}
+nav li {display: inline-block; margin: 0 10px;}*/
+nav ul {list-style-type: none; padding: 0; display: flex; justify-content: center;}
+nav li {margin: 0 10px;}
+#products {order: 4;}
+#about-us {order: 5;}
+
+#main {display: flex;}
+#left, #right {width: 25%; background-color: yellow;}
+article {width: 50%; background-color: #CCCCCC; padding: 6px;}
+article p:first-of-type {margin-top: 0;}
