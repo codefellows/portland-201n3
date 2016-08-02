@@ -24,7 +24,6 @@ To make this market analysis maximally effective, BusMall wants you to build an 
 
 You are in charge of the look-and-feel of the app too. Please do the following:
 - Choose a custom web font (Links to an external site.).
-- Choose a custom color palette (Links to an external site.).
 - Create a layout using semantic HTML.
 - After further analysis, you realize that you'll need the following domain models.
 
