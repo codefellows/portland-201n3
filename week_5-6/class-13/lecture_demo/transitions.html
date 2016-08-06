@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      #block {
+        background-color: green;
+        width: 200px;
+        height: 200px;
+        transition: all 2s;
+      }
+
+      #block:hover {
+        background-color: blue;
+        border-radius: 50%;
+        margin: 50px;
+      }
+
+      .hide {
+        opacity: 0;
+      }
+
+      .off-screen {
+        margin-left: -210px;
+      }
+
+      .centered {
+        margin-left: calc(50% - 100px);
+        transform: rotate(45deg);
+      }
+    </style>
+  </head>
+  <body>
+    <div id="block" class="off-screen"></div>
+  </body>
+  <script type="text/javascript">
+    function moveIn() {
+      document.getElementById('block').setAttribute("class", "");
+    }
+
+    function centerBlock() {
+      document.getElementById('block').setAttribute("class", "centered");
+    }
+
+    function hideBlock(event) {
+      event.target.setAttribute("class", "hide");
+    }
+
+    window.addEventListener("load", function() {
+      setTimeout(moveIn, 100);
+      setTimeout(centerBlock, 4000);
+    });
+    document.getElementById('block').addEventListener("click", hideBlock);
+  </script>
+</html>

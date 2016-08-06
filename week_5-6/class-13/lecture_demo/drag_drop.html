@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <style>
+    #non-droppable {width: 200px; height: 200px; background-color: red;}
+  </style>
+  <body>
+    <ol id="star-wars-list">
+      <li draggable="true">Phantom Menace</li>
+      <li draggable="true">Attack of the Clones</li>
+      <li draggable="true">Revenge of the Sith</li>
+      <li draggable="true">A New Hope</li>
+      <li draggable="true">The Empire Strikes Back</li>
+      <li draggable="true">Return of the Jedi</li>
+      <li draggable="true">The Force Awakens</li>
+    </ol>
+    <div id="non-droppable"></div>
+    <script type="text/javascript">
+      var draggedItem = null;
+
+      function setDraggedItem(event) {
+        draggedItem = event.target;
+      }
+
+      function allowDrop(event) {
+        event.preventDefault();
+      }
+
+      function moveItem(event) {
+        list.removeChild(draggedItem);
+        list.insertBefore(draggedItem, event.target.nextSibling);
+      }
+
+      var list = document.getElementById('star-wars-list');
+      list.addEventListener("dragstart", setDraggedItem);
+      list.addEventListener("dragover", allowDrop);
+      list.addEventListener("drop", moveItem);
+    </script>
+  </body>
+</html>

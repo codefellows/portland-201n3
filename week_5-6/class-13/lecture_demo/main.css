@@ -1,0 +1,83 @@
+header h1 {
+  display: inline-block;
+  font-size: 48px;
+  vertical-align: middle;
+}
+
+header img {
+  vertical-align: middle;
+}
+
+main nav, main section, main aside {
+  display: inline-block;
+  vertical-align: top;
+}
+
+main nav {
+  width: 25%;
+}
+
+main section {
+  width: 50%;
+}
+
+main section p {
+  margin-top: 0;
+}
+
+main aside {
+  width: 25%;
+}
+
+main aside ul {
+  margin-top: 0;
+}
+
+main nav a {
+  display: block;
+  color: rgb(194, 30, 31);
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+  text-decoration: none;
+  margin-bottom: 6px;
+  padding-left: 8px;
+  transition: all 0.25s;
+}
+
+main nav a:hover {
+  background-color: #dddddd;
+  padding-left: 18px;
+  color: black;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0 1em 0 0;
+  padding: 0;
+}
+
+/*nav ul li {
+  position: relative;
+}*/
+
+.sublist {
+  /* display: none; */
+  position: absolute;
+  margin-left: 130px;
+  margin-top: -30px;
+  opacity: 0;
+  transition: all 0.25s;
+}
+
+li:hover .sublist {
+  /* display: block;*/
+  opacity: 1;
+  transition: all 0.25s 0.25s;
+}
+
+nav .sublist:hover {
+  /* display: block;*/
+  opacity: 1;
+  transition: all 0.25s 0.25s;
+}
